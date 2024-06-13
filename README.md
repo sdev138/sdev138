@@ -26,8 +26,6 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 - 💬 `ping` me about **design**, **DEVim**, or any **Upcoming Features for any and future projects**
 - 🌱 Currently learning about Mojo from [Modular](https://www.modular.com/)
 - Love obsessing over Final Fantasy Versus XIII
-- 📫 Email: samarthdev138@gmail.com
-- 🔭 Website: [My Portfolio Website](https://sdev138.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Email)](samarthdev138@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samarthdev138@gmail.com)](samarthdev138@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-sdev138-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-dev/)](https://www.linkedin.com/in/samarth-dev/)
 
