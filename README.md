@@ -27,4 +27,4 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 - 🌱 Currently learning about Mojo from [Modular](https://www.modular.com/)
 - Love obsessing over Final Fantasy Versus XIII
 - 📫 Email: samarthdev138@gmail.com
-- 🔭 Website: [My Portfolio Website](sdev138.github.io) 
+- 🔭 Website: [My Portfolio Website](https://sdev138.github.io/) 
