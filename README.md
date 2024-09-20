@@ -28,5 +28,6 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 - 🔭 Love obsessing over Final Fantasy Versus XIII;<br>
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samarthdev138@gmail.com)](samarthdev138@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samarth-dev/)](https://www.linkedin.com/in/samarth-dev/)
+
 [Feel free to check out my website to learn more about me](https://devsamarth.com)
 
