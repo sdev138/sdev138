@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Currently working as a Machine Learning Engineer and trying to understand human intelligence 
+#### Currently working as a SWE Intern @ Five9 and trying to understand human intelligence 
 <!--
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
