@@ -31,3 +31,4 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
 [Feel free to check out my website to learn more about me](https://devsamarth.com)
 
+Recently due to massive massive uptime issues on Github, I've been migrating and doing my work on Codeberg and Gitlab. Feel to check those out for my most recent and up to date info.
