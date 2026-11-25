@@ -14,6 +14,98 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.markdown-cube.cube-scene {
+  position: relative;
+  width: 54px;
+  height: 65px;
+  margin-bottom: 22px;
+  perspective: 240px;
+}
+.markdown-cube .cube-jump {
+  position: absolute;
+  left: 13px;
+  top: 11px;
+  width: 22px;
+  height: 22px;
+  transform-style: preserve-3d;
+}
+.markdown-cube .cube {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transform: rotateX(-24deg) rotateY(35deg);
+  animation: markdown-cube-rotate 10s linear infinite;
+}
+.markdown-cube .cube-face {
+  position: absolute;
+  inset: 0;
+  box-sizing: border-box;
+  border: 1px solid var(--body, #565656);
+  backface-visibility: hidden;
+}
+.markdown-cube .cube-face--front {
+  background: var(--body, #565656);
+  transform: translateZ(11px);
+}
+.markdown-cube .cube-face--back {
+  background: var(--body, #565656);
+  transform: rotateY(180deg) translateZ(11px);
+}
+.markdown-cube .cube-face--right {
+  background: var(--ink, #333333);
+  transform: rotateY(90deg) translateZ(11px);
+}
+.markdown-cube .cube-face--left {
+  background: var(--ink, #333333);
+  transform: rotateY(-90deg) translateZ(11px);
+}
+.markdown-cube .cube-face--top {
+  background: var(--muted, #707070);
+  transform: rotateX(90deg) translateZ(11px);
+}
+.markdown-cube .cube-face--bottom {
+  background: var(--ink, #333333);
+  transform: rotateX(-90deg) translateZ(11px);
+}
+.markdown-cube .cube-ground {
+  position: absolute;
+  left: 11px;
+  bottom: 10px;
+  width: 26px;
+  height: 1px;
+  background: var(--line, #d6d6d6);
+}
+
+@keyframes markdown-cube-rotate {
+  from {
+    transform: rotate3d(-1, 1, 0, 0deg) rotateX(-24deg) rotateY(35deg);
+  }
+  to {
+    transform: rotate3d(-1, 1, 0, 360deg) rotateX(-24deg) rotateY(35deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .markdown-cube .cube {
+    animation: none;
+  }
+}
+</style>
+
+<div class="cube-scene markdown-cube" aria-hidden="true">
+  <div class="cube-jump">
+    <div class="cube">
+      <span class="cube-face cube-face--front"></span>
+      <span class="cube-face cube-face--back"></span>
+      <span class="cube-face cube-face--right"></span>
+      <span class="cube-face cube-face--left"></span>
+      <span class="cube-face cube-face--top"></span>
+      <span class="cube-face cube-face--bottom"></span>
+    </div>
+  </div>
+  <span class="cube-ground"></span>
+</div>
 
 #### Currently working as a PM @ Five9 and trying to understand human intelligence 
 <!--
